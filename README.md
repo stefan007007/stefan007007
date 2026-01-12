@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <h3>Hi there 👋 I'm Stefan</h3>
+  <p><b>Legal Tech & Automation Specialist</b></p>
+  <p>Building intelligent systems that automate complex workflows in law and business.</p>
+</div>
 
-<!--
-**stefan007007/stefan007007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently building a **Legal Tech Monorepo** integrating Supabase, n8n, and AI Agents.
+- 🌱 I’m deeply exploring **Multi-Agent Systems** and **Advanced RAG**.
+- ⚙️ **Stack**: Python, TypeScript, Docker, Supabase, n8n, Cloudflare.
+- 🤖 **Fun fact**: This profile was deployed by my autonomous AI coding assistant.
